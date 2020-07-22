@@ -11,7 +11,7 @@ Hello! Welcome to my profile 👋:rocket:
 
 :city_sunrise: I love technology and vibrant cities.
 
-:calling:  I like the design and creation of digital products;
+:calling:  I like the design and creation of digital products.
 
 :computer: I build my career as a frontend architect. 
 
