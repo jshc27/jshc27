@@ -2,10 +2,10 @@ Hola, soy Juan Sebastián Herrera Carvajal 👋:rocket:
 
 
 
-:sparkles: Industrial Engineer
-:sparkles: Platzi Master Student 2020 :green_heart: 
-:sparkles: Creator of @reenig
-:pencil:   I write opinion texts on smart cities :heavy_check_mark: smartcityes.blogspot.com
+Industrial Engineer
+Platzi Master Student 2020 :green_heart: 
+Creator of @reenig
+:pencil: I write opinion texts on smart cities :heavy_check_mark: smartcityes.blogspot.com
 -
 :sparkles: I love technology and vibrant cities.
 :sparkles: I like the design and creation of digital products;
