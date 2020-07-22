@@ -1,13 +1,16 @@
 Hola, soy Juan Sebastián Herrera Carvajal 👋:rocket:
 
-Platzi Master Student 2020 :green_heart: 
+:sparkles: Industrial Engineer
+:sparkles: Platzi Master Student 2020 :green_heart: 
+:sparkles: Creator of @reenig
+:pencil:   I write opinion texts on smart cities :heavy_check_mark: smartcityes.blogspot.com
 -
-Ingeniero Industrial, con estudios técnicos en electrónica, me gusta el diseño y creación de productos digitales;
-construyo mi carrera como arquitecto frontend. :sparkles:
+:sparkles: I love technology and vibrant cities.
+:sparkles: I like the design and creation of digital products;
+I build my career as a frontend architect. :fire:
+-
 
-Escribo textos de opinión sobre ciudades inteligentes. :pencil:
-
-¿Creamos algo juntos? -> juanchoherrerac_27@hotmail.com
+¿Do we create something together? -> juanchoherrerac_27@hotmail.com 
 
 <!--
 **jshc27/jshc27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
