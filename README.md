@@ -7,7 +7,7 @@ Hello! Welcome to my profile 👋:rocket:
 
 :sparkles: Creator of https://www.facebook.com/reenig/
 
-:pencil:   I write opinion texts on smart cities :heavy_check_mark: smartcityes.blogspot.com
+:pencil:   I write opinion texts on smart cities :heavy_check_mark:https://smartcityes.blogspot.com/
 
 :city_sunrise: I love technology and vibrant cities.
 
