@@ -5,7 +5,7 @@ Hello! Welcome to my profile 👋:rocket:
 
 :sparkles: Platzi Master Student 2020 :green_heart: 
 
-:sparkles: Creator of https://www.facebook.com/reenig/
+:sparkles: Creator ofhttps://www.facebook.com/AulexDevCo
 
 :pencil:   I write opinion texts on smart cities :heavy_check_mark:https://smartcityes.blogspot.com/
 
