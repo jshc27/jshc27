@@ -16,7 +16,7 @@ Hello! Welcome to my profile 👋:rocket:
 :computer: I build my career as a frontend architect. 
 
 
- :fire:   ¿Do we create something together? -> juanchoherrerac_27@hotmail.com 
+ :fire:   ¿Do we create something together? -> juanherreraca.95@gmail.com 
 
 <!--
 **jshc27/jshc27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
