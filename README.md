@@ -1,8 +1,15 @@
 Hello! Welcome to my profile 👋
 -
-![1](https://user-images.githubusercontent.com/56690309/109430796-173e0b80-79d1-11eb-9186-f665d25ed89f.png)
 
-I'm a Frontend developer and industrial engineer. I love technology and creating purposeful digital products using #HTML, #CSS, #JavaScript, #React.js, #Figma.
+
+<p align="center">
+     <img src="https://user-images.githubusercontent.com/56690309/109430971-f5915400-79d1-11eb-80cb-a016dc4630b2.jpg">
+</p>
+<p align="center">
+   I'm a Frontend developer and industrial engineer. I love technology and creating purposeful digital products using #HTML, #CSS, #JavaScript, #React.js, #Figma.
+</p>
+
+
 
 💚 I am [Platzi Master](https://platzi.com/p/Juanherreraca/![Uploading 1.png…]()
 ) since 2020.
