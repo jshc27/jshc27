@@ -1,21 +1,15 @@
 Hello! Welcome to my profile 👋
 -
 
-
 <p align="center">
      <img src="https://user-images.githubusercontent.com/56690309/109430971-f5915400-79d1-11eb-80cb-a016dc4630b2.jpg">
 </p>
 <p align="center">
-   I'm a Frontend developer and industrial engineer. I love technology and creating purposeful digital products using #HTML, #CSS, #JavaScript, #React.js, #Figma. 
-   💚 I am Platzi Master since 2020.
-   :sparkles: I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev )
-     
-
+   I'm a Frontend developer and industrial engineer. I love technology and creating purposeful digital products using #HTML, #CSS, #JavaScript, #React.js, #Figma.
+💚 I am Platzi Master since 2020.
 </p>
 
-
-
-
+:sparkles: I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)
 
 ## Latest videos on my [Youtube channel](https://www.youtube.com/channel/UCBLtL35DrC7NJijRT6BjZ7w):
 
