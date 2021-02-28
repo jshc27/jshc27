@@ -9,12 +9,11 @@ Hello! Welcome to my profile 👋
 💚 I am Platzi Master since 2020.
 </p>
 
-:sparkles: I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)
-
 ## Latest videos on my [Youtube channel](https://www.youtube.com/channel/UCBLtL35DrC7NJijRT6BjZ7w):
 
 #### [Basic concepts to create a digital product](https://www.youtube.com/watch?v=ez7ytschl48&t=10s)
 #### [How to create a simple web page using HTML and CSS](https://www.youtube.com/watch?v=0zP57sLhl6o)
+#### I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)
 
 ## You can find me in:
 
