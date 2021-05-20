@@ -14,6 +14,7 @@ Hello! Welcome to my profile 👋
 
  - [Basic concepts to create a digital product](https://www.youtube.com/watch?v=ez7ytschl48&t=10s)
  - [How to create a simple web page using HTML and CSS](https://www.youtube.com/watch?v=0zP57sLhl6o)
+ - [How to understand and use Chrome DevTools #hacks](https://www.youtube.com/watch?v=y2k8hVDPX20&t=228s)
  - I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)
 
 ## You can find me in:
