@@ -56,12 +56,12 @@ Welcome to my profile ✅
 ## Latest videos on my <a href="https://www.youtube.com/channel/UCBLtL35DrC7NJijRT6BjZ7w">Youtube channel</a><br>
 <div>
 <a href="https://www.youtube.com/watch?v=ez7ytschl48&t=0s">
-<img display="flex" width="310px" height="180" align="center" src="https://user-images.githubusercontent.com/56690309/123524349-33a43900-d68f-11eb-8afc-32cdf89ee9a0.png">
+<img display="flex" width="280px" height="180" align="center" src="https://user-images.githubusercontent.com/56690309/123524349-33a43900-d68f-11eb-8afc-32cdf89ee9a0.png">
 <a href="https://www.youtube.com/watch?v=y2k8hVDPX20&t=0s">
-<img align="center" width="310px" height="180px" src="https://user-images.githubusercontent.com/56690309/123524413-b3320800-d68f-11eb-9a19-fe47d14588b9.png">
+<img align="center" width="280px" height="180px" src="https://user-images.githubusercontent.com/56690309/123524413-b3320800-d68f-11eb-9a19-fe47d14588b9.png">
 </a>
 <a href="https://www.youtube.com/watch?v=v-7ulsXvMXw">
-<img align="center" width="310px" height="180px" src="https://user-images.githubusercontent.com/56690309/123524462-1ae85300-d690-11eb-84c9-457dc9e7bf5e.png">
+<img align="center" width="280px" height="180px" src="https://user-images.githubusercontent.com/56690309/123524462-1ae85300-d690-11eb-84c9-457dc9e7bf5e.png">
 </a> 
 </div><br>
 
