@@ -52,8 +52,8 @@ Welcome to my profile ✅
 
  I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)<br>
 ## Contact
-  <img align="center"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-      <p> juanherreraca.95@gmail.com </p>
+  <img align="center"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <a href="mailto:juanherreraca.95@gmail.com">tu texto de anclaje</a>
    </img>
 <div align="center">
      <h3>Follow me on:</h3>
