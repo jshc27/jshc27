@@ -53,7 +53,7 @@ Welcome to my profile ✅
  I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)<br>
 ## Contact
  <div>
-   <a href="mailto:juanherreraca.95@gmail.com">Gmail | Write me through this means</a>
+   <a href="mailto:juanherreraca.95@gmail.com">e-mail address</a>
  </div>
 <div align="center">
      <h3>Follow me on:</h3>
