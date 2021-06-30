@@ -65,7 +65,10 @@ Welcome to my profile ✅
      </a>
      <a href="https://www.facebook.com/juan.herreraca.95/">
      <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-     </a>    
+     </a>
+     <a href="https://platzi.com/p/Juanherreraca/">
+     <img align="center" src="https://img.shields.io/badge/Platzi-25D366?style=for-the-badge&logo=platzi&logoColor=white">
+     </a>  
 </div>
   
 
