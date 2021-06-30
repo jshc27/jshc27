@@ -12,18 +12,6 @@ Welcome to my profile ✅
 <p align="center">
  👉 I love creating ideas from scratch, prototyping and bringing the right people together to execute it.
 </p>
-<div align="center">
-     <h3>Follow me on:</h3>
-     <a href="https://www.linkedin.com/in/juanherreraca/">
-     <img align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-     </a>
-     <a href="https://www.youtube.com/channel/UCBLtL35DrC7NJijRT6BjZ7w">
-     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-     </a>
-     <a href="https://www.facebook.com/juan.herreraca.95/">
-     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-     </a>    
-</div>
 <br>
 <div align="center"
      <h3>I love technology and creating purposeful digital products using:</h3><br>
@@ -42,11 +30,8 @@ Welcome to my profile ✅
      <img align="center"  src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
      <img align="center"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
      <img align="center"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-     <img align="center"  src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
      </div><br>
      <div>
-     <img align="center"  src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-     <img align="center"  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
      <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
      <img align="center"  src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
      <img align="center"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
@@ -70,6 +55,18 @@ Welcome to my profile ✅
   <img align="center"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
       <p> juanherreraca.95@gmail.com </p>
    </img>
+<div align="center">
+     <h3>Follow me on:</h3>
+     <a href="https://www.linkedin.com/in/juanherreraca/">
+     <img align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     </a>
+     <a href="https://www.youtube.com/channel/UCBLtL35DrC7NJijRT6BjZ7w">
+     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+     </a>
+     <a href="https://www.facebook.com/juan.herreraca.95/">
+     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+     </a>    
+</div>
   
 
 <!--
