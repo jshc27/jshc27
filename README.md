@@ -39,7 +39,7 @@ Welcome to my profile ✅
 </div><br>
 
 ## Latest videos on my <a href="https://www.youtube.com/channel/UCBLtL35DrC7NJijRT6BjZ7w">Youtube channel</a><br>
-<div>
+<div align="center">
 <a href="https://www.youtube.com/watch?v=ez7ytschl48&t=0s">
 <img display="flex" width="280px" height="150" align="center" src="https://user-images.githubusercontent.com/56690309/123524349-33a43900-d68f-11eb-8afc-32cdf89ee9a0.png">
 <a href="https://www.youtube.com/watch?v=y2k8hVDPX20&t=0s">
@@ -51,6 +51,12 @@ Welcome to my profile ✅
 </div><br>
 
  I like to share knowledge through: [AulexDev](https://www.facebook.com/AulexDev)<br>
+## Some of my stats are:
+ <p align="center" display="flex">
+   <img width="410px" src="https://github-readme-stats.vercel.app/api?username=jshc27&theme=buefy&show_icons=true&hide=contribs">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshc27&layout=compact&theme=buefy">
+ </p>
+
 ## Contact
  <div>
    <a href="mailto:juanherreraca.95@gmail.com">e-mail address</a>
@@ -70,7 +76,6 @@ Welcome to my profile ✅
      <img align="center" src="https://img.shields.io/badge/Platzi-25D366?style=for-the-badge&logo=platzi&logoColor=white">
      </a>  
 </div>
-  
 
 <!--
 **jshc27/jshc27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
